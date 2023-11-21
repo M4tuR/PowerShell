@@ -1,0 +1,1 @@
+﻿Get-Process Notepad | Select ProcessName, ID
